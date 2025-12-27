@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Building data-driven web applications and improving my skills in Power BI dashboards and full-stack development.<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to data analytics, web development, and real-world problem-solving applications.<br><br>🤝 I’m looking for help with<br>Advanced data analytics, backend optimization, and best practices for scalable applications.<br><br>🌱 I’m currently learning<br>Advanced SQL, Power BI, Python for data analysis, and basics of cloud computing.<br><br>💬 Ask me about<br>PHP projects, Power BI dashboards, data cleaning, MCA academics, or getting started with analytics.<br><br>⚡ Fun fact<br>I enjoy turning raw data into meaningful insights and love learning new tech step by step 🚀
+🔭 I’m currently working on<br>Building data-driven web applications and improving my skills in Power BI dashboards and full-stack development.<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to data analytics, web development, and real-world problem-solving applications.<br><br>🤝 I’m looking for help with<br>Advanced data analytics, backend optimization, and best practices for scalable applications.<br><br>🌱 I’m currently learning<br>Advanced SQL, Power BI, Python for data analysis, and basics of cloud computing.<br><br>⚡ Fun fact<br>I enjoy turning raw data into meaningful insights and love learning new tech step by step 🚀
 
 
 ## 🌐 Socials:
